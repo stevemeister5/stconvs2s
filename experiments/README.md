@@ -17,4 +17,3 @@ When you run [run-notebook.sh](https://github.com/MLRG-CEFET-RJ/stconvs2s/blob/m
 
 [1] `--stconvs2s` or `--convlstm`: change the model. Default model: stconvs2s
 
-[2] `--cfsr` or `--chirps`: change the dataset. Default dataset: temperature (CFSR)

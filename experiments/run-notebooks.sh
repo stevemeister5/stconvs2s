@@ -8,9 +8,6 @@ if [ "$1" == "--convlstm" ]; then
     model="convlstm"
 fi
 
-if [ "$2" == "--cfsr" ] || [ -z "$2" ]; then
-    dataset="cfsr"
-fi
 
 if [ "$2" == "--chirps" ]; then
     dataset="chirps"
